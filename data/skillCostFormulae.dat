@@ -1,0 +1,92 @@
+TYPE_0: "Outro Skill"
+0 NA
+
+TYPE_1: "Normal Attack"
+0 NA
+2 F2_2 N2_2
+2 F2_3 N2_3
+3 F3_2 N3_2
+4 F3_3 N3_3
+4 F4_3 N4_2
+5 F4_5 N4_3 B4_1
+5 F5_2 N5_2 B4_1
+6 F5_3 N5_3 B4_1
+6 F5_6 N5_4 B4_1
+
+TYPE_1: "Resonance Skill"
+0 NA
+2 F2_2 N2_2
+2 F2_3 N2_3
+3 F3_2 N3_2
+4 F3_3 N3_3
+4 F4_3 N4_2
+5 F4_5 N4_3 B4_1
+5 F5_2 N5_2 B4_1
+6 F5_3 N5_3 B4_1
+6 F5_6 N5_4 B4_1
+
+TYPE_1: "Forte Circuit"
+0 NA
+2 F2_2 N2_2
+2 F2_3 N2_3
+3 F3_2 N3_2
+4 F3_3 N3_3
+4 F4_3 N4_2
+5 F4_5 N4_3 B4_1
+5 F5_2 N5_2 B4_1
+6 F5_3 N5_3 B4_1
+6 F5_6 N5_4 B4_1
+
+TYPE_1: "Resonance Liberation"
+0 NA
+2 F2_2 N2_2
+2 F2_3 N2_3
+3 F3_2 N3_2
+4 F3_3 N3_3
+4 F4_3 N4_2
+5 F4_5 N4_3 B4_1
+5 F5_2 N5_2 B4_1
+6 F5_3 N5_3 B4_1
+6 F5_6 N5_4 B4_1
+
+TYPE_1: "Intro Skill"
+0 NA
+2 F2_2 N2_2
+2 F2_3 N2_3
+3 F3_2 N3_2
+4 F3_3 N3_3
+4 F4_3 N4_2
+5 F4_5 N4_3 B4_1
+5 F5_2 N5_2 B4_1
+6 F5_3 N5_3 B4_1
+6 F5_6 N5_4 B4_1
+
+TYPE_4: "Stat Bonus I"
+3 F4_3 N4_3
+
+TYPE_2: "Stat Bonus I"
+2 F4_3 N4_3
+
+TYPE_3: "Inherent Skill I"
+2 F3_3 N3_3 B4_1
+
+TYPE_2: "Stat Bonus I"
+2 F4_3 N4_3
+
+TYPE_4: "Stat Bonus I"
+3 F4_3 N4_3
+
+TYPE_7: "Stat Bonus II"
+5 F5_3 N5_3 B4_1
+
+TYPE_5: "Stat Bonus II"
+4 F5_3 N5_3 B4_1
+
+TYPE_6: "Inherent Skill II"
+4 F4_3 N4_3 B4_1
+
+TYPE_5: "Stat Bonus II"
+4 F5_3 N5_3 B4_1
+
+TYPE_7: "Stat Bonus II"
+5 F5_3 N5_3 B4_1
