@@ -64,7 +64,7 @@ class Items:
 
         def resolveItemSource(source):
           if _title == "Skill Upgrade Material" and "drop" in detailsPage.find(class_="description").text.strip().lower():
-            source = "Drop: " + source.strip()
+            source = "Drop: " + source.strip().strip("Drop: ")
 
           return source.strip()
         
